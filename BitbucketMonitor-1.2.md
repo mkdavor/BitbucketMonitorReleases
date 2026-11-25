@@ -1,0 +1,3 @@
+- A dot on the menu bar icon shows that something happened since you last looked. Opening the app clears it.
+- New now lists everything the app tells you about: comments, replies, mentions, review requests, approvals, requested changes, failed builds and merge conflicts.
+- Settings has its own window. Under Notifications you choose which of these you get.
