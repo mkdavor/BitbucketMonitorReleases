@@ -1,0 +1,2 @@
+- Security fixes for how the app handles your Bitbucket login and its own updates.
+- After updating, please replace your token: in Settings click Remove Token, create a new API token at Atlassian, revoke the old one and paste the new one.
