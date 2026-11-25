@@ -5,7 +5,7 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>BitbucketMonitor</title>
         <item>
             <title>1.1.3</title>
-            <pubDate>Wed, 25 Nov 2026 13:15:02 +0100</pubDate>
+            <pubDate>Wed, 25 Nov 2026 13:15:03 +0100</pubDate>
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
@@ -14,24 +14,8 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://raw.githubusercontent.com/mkdavor/BitbucketMonitorReleases/main/BitbucketMonitor-1.1.3.zip" length="3477020" type="application/octet-stream" sparkle:edSignature="eb5MrEim+BflJ1HLdmxk3LT47AT+BFMvAeHUv6aqZ6t0bGCmITc9lQm/RfAmM403GL8jHtHzc/KgIUrle0KhDQ=="></enclosure>
         </item>
-        <item>
-            <title>1.1.2</title>
-            <pubDate>Wed, 25 Nov 2026 11:24:23 +0100</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/mkdavor/BitbucketMonitorReleases/main/BitbucketMonitor-1.1.2.zip" length="3470488" type="application/octet-stream" sparkle:edSignature="E59ylIyE3N4Kmd3Sg8RnKsdZMFY6ZPReq86Z5oqycylJhUmapq+EJB8VyH3D3WJ8MDzzzm/U9IAOXqOZn81cCA=="></enclosure>
-        </item>
-        <item>
-            <title>1.1.1</title>
-            <pubDate>Wed, 25 Nov 2026 11:08:15 +0100</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/mkdavor/BitbucketMonitorReleases/main/BitbucketMonitor-1.1.1.zip" length="3470446" type="application/octet-stream" sparkle:edSignature="PI2DuvjzJ1+keYo0RTRsUHW93bXANCNJxav9dBcOqjTAuCQQFEpTMfc67Wr9US3pA7Mi9os8nDaEmdCJypLyBg=="></enclosure>
-        </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: DVfiEsLYjabxWWxWjkyW8dZ7/kv65CHw1fUkxFhzw3Il1yWlAs5OXsH4MiJpjx0R0AhQeAQRh9iWL+5U3THQCQ==
-length: 2644
+edSignature: B8RIVxXPFDWTWai92/dNTp7BcyQXNDq61JGcSuTfP2PSehrPkOaAGx+xNY9fULedzlyLLml4BVk/lNWFFxOJCA==
+length: 1384
 -->
