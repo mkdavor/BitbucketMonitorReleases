@@ -3,6 +3,14 @@
     <channel>
         <title>BitbucketMonitor</title>
         <item>
+            <title>1.1.2</title>
+            <pubDate>Wed, 25 Nov 2026 11:24:23 +0100</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/mkdavor/BitbucketMonitorReleases/main/BitbucketMonitor-1.1.2.zip" length="3470488" type="application/octet-stream" sparkle:edSignature="E59ylIyE3N4Kmd3Sg8RnKsdZMFY6ZPReq86Z5oqycylJhUmapq+EJB8VyH3D3WJ8MDzzzm/U9IAOXqOZn81cCA=="/>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Wed, 25 Nov 2026 11:08:15 +0100</pubDate>
             <sparkle:version>3</sparkle:version>
